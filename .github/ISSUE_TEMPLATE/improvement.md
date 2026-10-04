@@ -1,7 +1,7 @@
 ---
 name: Improvement
 about: 既存機能の改善を提案する
-title: "[Improvement] "
+title: ""
 labels: ""
 assignees: ""
 ---

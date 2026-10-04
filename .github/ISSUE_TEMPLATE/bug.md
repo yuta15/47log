@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: 不具合を報告する
-title: "[Bug] "
+title: ""
 labels: ""
 assignees: ""
 ---

@@ -1,7 +1,7 @@
 ---
 name: Refactor
 about: リファクタリングを提案する
-title: "[Refactor] "
+title: ""
 labels: ""
 assignees: ""
 ---

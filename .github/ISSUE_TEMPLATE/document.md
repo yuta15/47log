@@ -1,7 +1,7 @@
 ---
 name: Document
 about: ドキュメントの追加・更新を提案する
-title: "[Docs] "
+title: ""
 labels: ""
 assignees: ""
 ---

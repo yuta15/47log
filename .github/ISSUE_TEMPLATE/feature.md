@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: 機能追加を提案する
-title: "[Feature] "
+title: ""
 labels: ""
 assignees: ""
 ---
